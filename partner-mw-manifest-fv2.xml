@@ -1,0 +1,17 @@
+<middleware>
+    <middleware>
+        <name>Partner Middleware SDK</name>
+        <id>partner-middleware-sdk</id>
+        <uri>https://github.com/partner/partner-middleware-sdk</uri>
+        <desc>This SDK is used for ABC and XYZ on PSoC6 devices.</desc>
+        <category>Middleware</category>
+        <req_capabilities>cat1</req_capabilities>
+        <versions>
+        <version flow_version="1.0,2.0">
+            <num>1.0.0 release</num>
+            <commit>release-v1.0.0</commit>
+            <desc>release-v1.0.0</desc>
+        </version>
+        </versions>
+    </middleware>
+</middleware>

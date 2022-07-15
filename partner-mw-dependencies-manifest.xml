@@ -1,0 +1,20 @@
+<dependencies>
+  <depender>
+    <id>partner-middleware-sdk</id>
+    <versions>
+      <version>
+        <commit>release-v1.0.0</commit>
+        <dependees>
+          <dependee>
+            <id>wifi-connection-manager</id>
+            <commit>latest-v2.X</commit>
+          </dependee>
+          <dependee>
+            <id>http-client</id>
+            <commit>latest-v1.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+</dependencies>
